@@ -1,0 +1,41 @@
+Usage
+Run the agent:
+
+bash
+node agent.js
+Example commands to try:
+
+"Create a file hello.txt with 'Hello World'"
+
+"List all files in this folder"
+
+"Python script to calculate factorial of 5"
+
+VS Code Extension (Bonus)
+Open the vscode-extension folder in VS Code
+
+Press F5 to launch extension development mode
+
+Use the command palette (Ctrl+Shift+P) and run "Workik: Execute Task"
+
+Technical Details
+AI API: Groq (llama3-8b-8192 model)
+
+Runtime: Node.js
+
+Dependencies:
+
+node-fetch for API calls
+
+readline for user input
+
+child_process for command execution
+
+Future Improvements
+Add local LLM fallback (Ollama)
+
+Implement multi-step project generation
+
+Add command history
+
+Improve safety sandboxing
