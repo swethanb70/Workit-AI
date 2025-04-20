@@ -1,0 +1,5 @@
+Have code in same folder as nodejs .
+save javascript file as 'agent.js'.
+open cmd
+direct to workit folder
+run this cmd"node agent.js"
