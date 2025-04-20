@@ -1,0 +1,14 @@
+
+### Key Sections Included:
+1. **Project Overview** - Brief description
+2. **Features** - Highlighting key capabilities
+3. **Installation** - Clear setup instructions
+4. **Usage** - How to run and example commands
+5. **Technical Details** - Stack information
+6. **Roadmap** - Future improvements
+7. **License** - Default MIT license
+
+### Recommended Next Steps:
+1. Create a `demo.gif` showing the agent in action
+2. Add a `LICENSE` file (MIT recommended)
+3. Include a `.gitignore` with:
